@@ -11,12 +11,28 @@
       "RelativeMoniker": "D:0:0:{4ECF42EA-A1DE-7B99-3810-FE0B753516B6}|CIS174FP.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adinm\\source\\repos\\CIS174FP\\CIS174FP\\Migrations\\20260427045405_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260427045405_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECF42EA-A1DE-7B99-3810-FE0B753516B6}|CIS174FP.csproj|c:\\users\\adinm\\source\\repos\\cis174fp\\cis174fp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECF42EA-A1DE-7B99-3810-FE0B753516B6}|CIS174FP.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4ECF42EA-A1DE-7B99-3810-FE0B753516B6}|CIS174FP.csproj|c:\\users\\adinm\\source\\repos\\cis174fp\\cis174fp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4ECF42EA-A1DE-7B99-3810-FE0B753516B6}|CIS174FP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4ECF42EA-A1DE-7B99-3810-FE0B753516B6}|CIS174FP.csproj|c:\\users\\adinm\\source\\repos\\cis174fp\\cis174fp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECF42EA-A1DE-7B99-3810-FE0B753516B6}|CIS174FP.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4ECF42EA-A1DE-7B99-3810-FE0B753516B6}|CIS174FP.csproj|c:\\users\\adinm\\source\\repos\\cis174fp\\cis174fp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4ECF42EA-A1DE-7B99-3810-FE0B753516B6}|CIS174FP.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECF42EA-A1DE-7B99-3810-FE0B753516B6}|CIS174FP.csproj|c:\\users\\adinm\\source\\repos\\cis174fp\\cis174fp\\models\\studysession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECF42EA-A1DE-7B99-3810-FE0B753516B6}|CIS174FP.csproj|solutionrelative:models\\studysession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4ECF42EA-A1DE-7B99-3810-FE0B753516B6}|CIS174FP.csproj|c:\\users\\adinm\\source\\repos\\cis174fp\\cis174fp\\cis174fp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -30,8 +46,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260427045405_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\source\\repos\\CIS174FP\\CIS174FP\\Migrations\\20260427045405_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260427045405_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\adinm\\source\\repos\\CIS174FP\\CIS174FP\\Migrations\\20260427045405_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260427045405_InitialCreate.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T04:54:06.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\source\\repos\\CIS174FP\\CIS174FP\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\adinm\\source\\repos\\CIS174FP\\CIS174FP\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T04:51:50.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\source\\repos\\CIS174FP\\CIS174FP\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\adinm\\source\\repos\\CIS174FP\\CIS174FP\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T04:48:14.381Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,14 +95,14 @@
               "RelativeDocumentMoniker": "Models\\Assignment.cs",
               "ToolTip": "C:\\Users\\adinm\\source\\repos\\CIS174FP\\CIS174FP\\Models\\Assignment.cs",
               "RelativeToolTip": "Models\\Assignment.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-27T04:35:36.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\adinm\\source\\repos\\CIS174FP\\CIS174FP\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -66,18 +121,27 @@
               "RelativeDocumentMoniker": "Models\\Course.cs",
               "ToolTip": "C:\\Users\\adinm\\source\\repos\\CIS174FP\\CIS174FP\\Models\\Course.cs",
               "RelativeToolTip": "Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-27T04:23:38.612Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudySession.cs",
+              "DocumentMoniker": "C:\\Users\\adinm\\source\\repos\\CIS174FP\\CIS174FP\\Models\\StudySession.cs",
+              "RelativeDocumentMoniker": "Models\\StudySession.cs",
+              "ToolTip": "C:\\Users\\adinm\\source\\repos\\CIS174FP\\CIS174FP\\Models\\StudySession.cs",
+              "RelativeToolTip": "Models\\StudySession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T04:37:05.851Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "CIS174FP",
               "DocumentMoniker": "C:\\Users\\adinm\\source\\repos\\CIS174FP\\CIS174FP\\CIS174FP.csproj",
               "RelativeDocumentMoniker": "CIS174FP.csproj",
@@ -94,16 +158,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\adinm\\source\\repos\\CIS174FP\\CIS174FP\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\adinm\\source\\repos\\CIS174FP\\CIS174FP\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAgwA4AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T15:44:10.522Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

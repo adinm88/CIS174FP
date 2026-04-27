@@ -12,5 +12,8 @@ namespace CIS174FP.Models
 
         // links course to logged-in user (Identity)
         public string? UserId { get; set; }
+
+        // relationship to Assignment model (one-to-many)
+        public List<Assignment>? Assignments { get; set; }
     }
 }

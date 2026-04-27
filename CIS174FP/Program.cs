@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using CIS174FP.Data;
 
 namespace CIS174FP
 {

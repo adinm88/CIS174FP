@@ -17,5 +17,8 @@ namespace CIS174FP.Models
         public int CourseId { get; set; }
 
         public string? UserId { get; set; }
+
+        // Relationship to Course model (many-to-one)
+        public Course? Course { get; set; }
     }
 }

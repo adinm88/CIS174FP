@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CIS174FP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40ca5a435266b875c5bffb17f30c99ed8fbec0bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b7f33fb63bad31dad8b6263c082091d3db6489c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CIS174FP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CIS174FP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
