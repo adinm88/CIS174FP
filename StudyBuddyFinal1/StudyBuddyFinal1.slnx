@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../StudyBuddyFinal.Tests/StudyBuddyFinal.Tests.csproj" Id="2efcf64f-8460-4e5f-a38b-004909dabd3a" />
+  <Project Path="StudyBuddyFinal1.csproj" />
+</Solution>
